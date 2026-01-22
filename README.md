@@ -1,4 +1,5 @@
-# 💫 I'm Navpreet Kaur, third-year student of Honours Bachelor of Computer Science (Cloud Computing)
+#                                  I'm Navpreet Kaur
+#     Third-year student of Honours Bachelor of Computer Science (Cloud Computing)
 🎯 Current Goal: Actively seeking a Summer 2026 Co-op opportunity where I can apply cloud computing, backend development, and DevOps skills in real-world systems.<br>🔭 I’m currently working on: Building cloud-native applications using AWS, REST APIs, and CI/CD pipelines, with an emphasis on scalability and reliability.<br>👯 I’m looking to collaborate on: Cloud, backend, or DevOps-focused projects involving APIs, automation, and cloud deployments.<br>🤝 I’m looking for help with: Gaining industry exposure through co-op work, code reviews, and learning best practices used in production environments.<br>🌱 I’m currently learning: Advanced AWS services, Kubernetes, system design, and cloud architecture patterns.<br>💬 Ask me about: AWS deployments, REST APIs, CI/CD pipelines, Docker, or backend development fundamentals.<br>⚡ Fun fact: I enjoy turning academic projects into production-style systems.
 
 
